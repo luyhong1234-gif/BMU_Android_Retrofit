@@ -1,0 +1,4 @@
+git checkout -b feature/api-layer
+git add app/src/main/java/com/example/app/data/
+git commit -m "feat: add ApiService with CRUD endpoints"
+git push origin feature/api-layer
